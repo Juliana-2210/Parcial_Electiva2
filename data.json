@@ -1,5 +1,26 @@
 {
   "products": {
+    "546": {
+      "code": "546",
+      "description": "Panela",
+      "stock": 560,
+      "value": 3456,
+      "stock-min": 2
+    },
+    "890": {
+      "code": "890",
+      "description": "Arroz",
+      "stock": 45,
+      "value": 4500,
+      "stock-min": 5
+    },
+    "908": {
+      "code": "908",
+      "description": "Panelada",
+      "stock": 45,
+      "value": 2356,
+      "stock-min": 1
+    },
     "4356df34": {
       "code": "4356df34",
       "description": "Jabón de Baño",
@@ -10,7 +31,7 @@
     "83hfgr4": {
       "code": "83hfgr4",
       "description": "Cepillo Bucal",
-      "stock": 533,
+      "stock": 528,
       "value": 12800,
       "sotck-min": 5
     },
